@@ -1,0 +1,35 @@
+h1{
+    font-weight:bold;
+    color: blue;
+}
+
+h2{
+    font-weight: 200;
+    color: blue;
+}
+
+strong{
+    color: yellow;
+}
+body{
+    background-color: gray;
+}
+
+#italic{
+    font-style: italic;
+}
+
+a:link{
+    text-decoration-line: none;
+}
+a:hover{
+    text-decoration-line: underline;
+}
+
+p::first-letter{
+    font-variant: small-caps;
+    font-size: x-large;
+}
+dt{ 
+    color: orange;
+}
