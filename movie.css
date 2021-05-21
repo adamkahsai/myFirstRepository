@@ -112,8 +112,14 @@ body {
     border-radius: 0 0 16px 16px;
   }
   
-   .footer {
-    position :absolute;
+  .footer {
+    opacity: 0.50;
     right: 0;
     bottom: 0;
+    position: fixed;
+     
   } 
+
+  .a{
+      display:block;
+  }
